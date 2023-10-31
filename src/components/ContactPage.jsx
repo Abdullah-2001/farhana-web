@@ -1,6 +1,6 @@
 import React from 'react'
 import '../App.css';
-import support from '../assets/images/publicrelation.png';
+// import support from '../assets/images/publicrelation.png';
 import question from '../assets/images/question.png';
 import phone from '../assets/images/phonelogo.png';
 import message from '../assets/images/messagelogo.png';
